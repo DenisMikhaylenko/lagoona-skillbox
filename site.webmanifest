@@ -1,0 +1,36 @@
+{
+  "lang": "ru",
+  "dir": "ltr",
+  "name": "Lagoona - сеть отелей",
+  "short_name": "LG",
+  "description": "Лучшие отели для семейного отдыха, проект сделан без адаптивной верстки",
+  "categories": ["education", "security"],
+  "scope": "./",
+  "start_url": "index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F1F1F1;",
+  "icons": [
+    { "src": "./favicon.svg", "type": "image/svg+xml", "sizes": "any" },
+    {
+      "src": "./images/favicon-25х25.png",
+      "type": "image/png",
+      "sizes": "25х25"
+    },
+    {
+      "src": "./images/favicon-50x50.png",
+      "type": "image/png",
+      "sizes": "50x50"
+    },
+    {
+      "src": "./images/favicon-75x75.png",
+      "type": "image/png",
+      "sizes": "75x75"
+    },
+    {
+      "src": "./images/favicon-100x100.png",
+      "type": "image/png",
+      "sizes": "100x100"
+    }
+  ]
+}
